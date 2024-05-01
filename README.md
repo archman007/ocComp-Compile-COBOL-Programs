@@ -2,6 +2,6 @@ This application locates and compiles COBOL programs with OpenSource COBOL compi
 
 1.  The first task is to select the directory where the COBOL program resides.
 2.  Loop through files and detect COBOL programs.
-3.  Determine if the source code is a Main program or a subroutine.
+3.  Determine if the source code is a main program or a subroutine.
 
 4.  This level of automation makes compiling COBOL prgrams a breeze.
